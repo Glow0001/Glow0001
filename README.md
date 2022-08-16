@@ -7,6 +7,8 @@
 
 - 📌 Latest project **Discord Webhook Spammer**
 
+- 📌 I’m currently busy on a  **dm purger - selfbot**
+
 - 💻 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Glow0001?tab=repositories) or [Discord](https://discord.gg/hay)
