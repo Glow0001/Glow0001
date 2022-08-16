@@ -1,4 +1,4 @@
-<!-- https://github.com/Smug246/ -->
+<!-- (https://github.com/Glow0001)/ -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <h1 align="center">Hi 👋 I'm Glow</h1>
