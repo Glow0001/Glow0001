@@ -2,7 +2,7 @@
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <h1 align="center">Hi 👋 I'm Glow</h1>
-<h3 align="center">I'm a intermediate python developer from the uk</h3>
+<h3 align="center">I'm a python developer from the Uk</h3>
 </p>
 
 - 📌 Latest project **Discord Webhook Spammer**
