@@ -5,9 +5,9 @@
 <h3 align="center">I'm a intermediate python developer from the uk</h3>
 </p>
 
-- 🔭 Latest project **Discord Webhook Spammer**
+- 📌 Latest project **Discord Webhook Spammer**
 
-- 🌱 I’m currently learning **Python**
+- 💻 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Glow0001?tab=repositories) or [Discord](https://discord.gg/hay)
 
