@@ -5,9 +5,9 @@
 <h3 align="center">I'm a python developer from the Uk</h3>
 </p>
 
-- 📌 Latest project **Discord Webhook Spammer**
+- 📌 Latest project **dm purger - selfbot**
 
-- 📌 I’m currently busy on a  **dm purger - selfbot**
+- 📌 I’m currently busy on a  **Mass Reporter**
 
 - 💻 I’m currently learning **Python**
 
